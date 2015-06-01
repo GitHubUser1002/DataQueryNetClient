@@ -1,0 +1,10 @@
+c:\users\brian_000\documents\visual studio 2013\Projects\YQLNetClient\YQLNetClient\bin\Debug\YQLNetClient.exe.config
+c:\users\brian_000\documents\visual studio 2013\Projects\YQLNetClient\YQLNetClient\bin\Debug\YQLNetClient.exe
+c:\users\brian_000\documents\visual studio 2013\Projects\YQLNetClient\YQLNetClient\bin\Debug\YQLNetClient.pdb
+c:\users\brian_000\documents\visual studio 2013\Projects\YQLNetClient\YQLNetClient\obj\Debug\YQLNetClient.csprojResolveAssemblyReference.cache
+c:\users\brian_000\documents\visual studio 2013\Projects\YQLNetClient\YQLNetClient\obj\Debug\YQLNetClient.exe
+c:\users\brian_000\documents\visual studio 2013\Projects\YQLNetClient\YQLNetClient\obj\Debug\YQLNetClient.pdb
+c:\users\brian_000\documents\visual studio 2013\Projects\YQLNetClient\YQLNetClient\bin\Debug\Newtonsoft.Json.dll
+c:\users\brian_000\documents\visual studio 2013\Projects\YQLNetClient\YQLNetClient\bin\Debug\Newtonsoft.Json.xml
+c:\users\brian_000\documents\visual studio 2013\Projects\YQLNetClient\YQLNetClient\bin\Debug\Entities.dll
+c:\users\brian_000\documents\visual studio 2013\Projects\YQLNetClient\YQLNetClient\bin\Debug\Entities.pdb

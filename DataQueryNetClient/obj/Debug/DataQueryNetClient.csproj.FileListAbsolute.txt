@@ -1,0 +1,10 @@
+C:\Users\brian_000\Documents\Visual Studio 2013\Projects\DataQueryNetClient\DataQueryNetClient\bin\Debug\YQLNetClient.exe.config
+C:\Users\brian_000\Documents\Visual Studio 2013\Projects\DataQueryNetClient\DataQueryNetClient\bin\Debug\YQLNetClient.exe
+C:\Users\brian_000\Documents\Visual Studio 2013\Projects\DataQueryNetClient\DataQueryNetClient\bin\Debug\YQLNetClient.pdb
+C:\Users\brian_000\Documents\Visual Studio 2013\Projects\DataQueryNetClient\DataQueryNetClient\bin\Debug\Entities.dll
+C:\Users\brian_000\Documents\Visual Studio 2013\Projects\DataQueryNetClient\DataQueryNetClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\brian_000\Documents\Visual Studio 2013\Projects\DataQueryNetClient\DataQueryNetClient\bin\Debug\Entities.pdb
+C:\Users\brian_000\Documents\Visual Studio 2013\Projects\DataQueryNetClient\DataQueryNetClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\brian_000\Documents\Visual Studio 2013\Projects\DataQueryNetClient\DataQueryNetClient\obj\Debug\DataQueryNetClient.csprojResolveAssemblyReference.cache
+C:\Users\brian_000\Documents\Visual Studio 2013\Projects\DataQueryNetClient\DataQueryNetClient\obj\Debug\YQLNetClient.exe
+C:\Users\brian_000\Documents\Visual Studio 2013\Projects\DataQueryNetClient\DataQueryNetClient\obj\Debug\YQLNetClient.pdb
